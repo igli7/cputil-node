@@ -1,2 +1,2 @@
-import * as cputil from './cputil';
-export default cputil;
+import * as cputil from './cputil'
+export default cputil
