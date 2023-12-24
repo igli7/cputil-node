@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
-    "lib/**/*"
+    "lib/**/**"
   ],
   "scripts": {
     "copy": "copyfiles -f src/cputil/bin/linux/* lib/cputil/bin/linux && copyfiles -f src/cputil/bin/macos/* lib/cputil/bin/macos",
