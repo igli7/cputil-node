@@ -1,7 +1,7 @@
 {
   "name": "cputil-node",
   "version": "0.6.1",
-  "description": "Node js wrapper for Star's cputil",
+  "description": "Node js wrapper for Star's Printers cputil",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/officert/node-cputil.git"
+    "url": "git+https://github.com/igli7/cputil-node.git"
   },
   "keywords": [
     "node",
@@ -27,9 +27,9 @@
   "author": "Igli Xhukellari",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/officert/node-cputil/issues"
+    "url": "https://github.com/igli7/cputil-node.git/issues"
   },
-  "homepage": "https://github.com/officert/node-cputil#readme",
+  "homepage": "https://github.com/igli7/cputil-node.git#readme",
   "devDependencies": {
     "@types/node": "^16.11.12",
     "@types/uuid": "^8.3.4",
