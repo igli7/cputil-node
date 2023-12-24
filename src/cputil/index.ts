@@ -1,6 +1,6 @@
-import * as child_process from 'child_process'
 import * as fs from 'fs'
 import * as path from 'path'
+import * as child_process from 'child_process'
 import { v4 as uuidv4 } from 'uuid'
 
 const CPUTIL_PATH =
